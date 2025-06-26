@@ -1,0 +1,4 @@
+Logger initialized.
+Logger 1 hashCode: 622488023
+Logger 2 hashCode: 622488023
+Test Passed: Both references point to the same Logger instance.
