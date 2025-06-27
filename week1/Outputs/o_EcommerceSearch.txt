@@ -1,0 +1,5 @@
+Linear Search for product ID 205:
+Product ID: 205, Name: Shoes, Category: Fashion
+
+Binary Search for product ID 150:
+Product ID: 150, Name: Smartphone, Category: Electronics
