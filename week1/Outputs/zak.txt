@@ -1,1 +1,0 @@
-I used main class as the test classes for all programs.
